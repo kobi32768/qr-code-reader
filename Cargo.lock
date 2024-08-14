@@ -5,3 +5,7 @@ version = 3
 [[package]]
 name = "qr-code-reader"
 version = "0.1.0"
+
+[[package]]
+name = "tables"
+version = "0.1.0"

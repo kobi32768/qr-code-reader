@@ -1,3 +1,4 @@
+workspace = { members = ["tables"] }
 [package]
 name = "qr-code-reader"
 version = "0.1.0"
